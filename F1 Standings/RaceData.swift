@@ -1,8 +1,8 @@
 //
-//  Framework.swift
-//  Apple-Frameworks
+//  RaceData.swift
+//  F1 Standings
 //
-//  Created by Andrew Miotke on 6/17/21.
+//  Created by Andrew Miotke on 6/21/21.
 //
 
 import Foundation
