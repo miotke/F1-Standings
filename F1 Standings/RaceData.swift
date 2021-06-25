@@ -80,6 +80,13 @@ struct RaceData {
              first: "",
              second: "",
              third: "",
+             detailLink: "https://www.formula1.com/en/racing/2021/Styria.html",
+             winningFlag: ""
+            ),
+        Race(raceName: "Austria",
+             first: "",
+             second: "",
+             third: "",
              detailLink: "https://www.formula1.com/en/racing/2021/Austria.html",
              winningFlag: ""
             ),
