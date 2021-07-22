@@ -91,9 +91,9 @@ struct RaceData {
              winningFlag: "🇳🇱"
             ),
         Race(raceName: "Great Britain",
-             first: "",
-             second: "",
-             third: "",
+             first: "Lewis Hamilton",
+             second: "Charles Leclec",
+             third: "Valtteri Bottas",
              detailLink: "https://www.formula1.com/en/racing/2021/Great_Britain.html",
              winningFlag: ""
             ),
