@@ -98,9 +98,9 @@ struct RaceData {
              winningFlag: ""
             ),
         Race(raceName: "Hungary",
-             first: "",
-             second: "",
-             third: "",
+             first: "Esteban Ocon",
+             second: "Sebastian Vettel",
+             third: "Lewis Hamilton",
              detailLink: "https://www.formula1.com/en/racing/2021/Hungary.html",
              winningFlag: ""
             ),
