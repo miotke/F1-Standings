@@ -25,7 +25,7 @@ struct RaceData {
                                  detailLink: "https://www.formula1.com/en/racing/2021/Bahrain.html",
                                  winningFlag: "🇬🇧"
     )
-    
+
     static let races = [
         Race(raceName: "Bahrain",
              first: "Lewis Hamilton",
@@ -105,9 +105,9 @@ struct RaceData {
              winningFlag: ""
             ),
         Race(raceName: "Belgium",
-             first: "",
-             second: "",
-             third: "",
+             first: "Max Verstappen",
+             second: "George Russell",
+             third: "Lewis Hamilton",
              detailLink: "https://www.formula1.com/en/racing/2021/Belgium.html",
              winningFlag: ""
             ),
@@ -188,6 +188,6 @@ struct RaceData {
              detailLink: "https://www.formula1.com/en/racing/2021/United_Arab_Emirates.html",
              winningFlag: ""
             ),
-        
+
     ]
 }
