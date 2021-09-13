@@ -119,9 +119,9 @@ struct RaceData {
              winningFlag: ""
             ),
         Race(raceName: "Italy",
-             first: "",
-             second: "",
-             third: "",
+             first: "Daniel Riccardo",
+             second: "Lando Norris",
+             third: "Valtteri Bottas",
              detailLink: "https://www.formula1.com/en/racing/2021/Italy.html",
              winningFlag: ""
             ),
