@@ -95,56 +95,49 @@ struct RaceData {
              second: "Charles Leclec",
              third: "Valtteri Bottas",
              detailLink: "https://www.formula1.com/en/racing/2021/Great_Britain.html",
-             winningFlag: ""
+             winningFlag: "🇬🇧"
             ),
         Race(raceName: "Hungary",
              first: "Esteban Ocon",
              second: "Sebastian Vettel",
              third: "Lewis Hamilton",
              detailLink: "https://www.formula1.com/en/racing/2021/Hungary.html",
-             winningFlag: ""
+             winningFlag: "🇫🇷"
             ),
         Race(raceName: "Belgium",
              first: "Max Verstappen",
              second: "George Russell",
              third: "Lewis Hamilton",
              detailLink: "https://www.formula1.com/en/racing/2021/Belgium.html",
-             winningFlag: ""
+             winningFlag: "🇳🇱"
             ),
         Race(raceName: "Netherlands",
              first: "Max Verstappen",
              second: "Lewis Hamilton",
              third: "Valtteri Bottas",
              detailLink: "https://www.formula1.com/en/racing/2021/Netherlands.html",
-             winningFlag: ""
+             winningFlag: "🇳🇱"
             ),
         Race(raceName: "Italy",
              first: "Daniel Riccardo",
              second: "Lando Norris",
              third: "Valtteri Bottas",
              detailLink: "https://www.formula1.com/en/racing/2021/Italy.html",
-             winningFlag: ""
+             winningFlag: "🇦🇺"
             ),
         Race(raceName: "Russia",
              first: "Lewis Hamilton",
              second: "Max Verstappen",
              third: "Carlos Sainz",
              detailLink: "https://www.formula1.com/en/racing/2021/Russia.html",
-             winningFlag: ""
+             winningFlag: "🇬🇧"
             ),
         Race(raceName: "Turkey",
-             first: "",
-             second: "",
-             third: "",
+             first: "Valtteri Bottas",
+             second: "Max Verstappen",
+             third: "Sergio Perez",
              detailLink: "https://www.formula1.com/en/racing/2021/TBC.html",
-             winningFlag: ""
-            ),
-        Race(raceName: "Japan",
-             first: "",
-             second: "",
-             third: "",
-             detailLink: "https://www.formula1.com/en/racing/2021/Japan.html",
-             winningFlag: ""
+             winningFlag: "🇫🇮"
             ),
         Race(raceName: "United States",
              first: "",
