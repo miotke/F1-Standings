@@ -140,11 +140,11 @@ struct RaceData {
              winningFlag: "🇫🇮"
             ),
         Race(raceName: "United States",
-             first: "",
-             second: "",
-             third: "",
+             first: "Max Verstappen",
+             second: "Lewis Hamilton",
+             third: "Sergio Perez",
              detailLink: "https://www.formula1.com/en/racing/2021/United_States.html",
-             winningFlag: ""
+             winningFlag: "🇳🇱"
             ),
         Race(raceName: "Mexico",
              first: "",
