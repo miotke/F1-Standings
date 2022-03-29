@@ -10,3 +10,4 @@ Will update the README with more information later.
 ### Credits
 
 All data pulled from Formula 1's official website: https://www.formula1.com/en/racing/2021.html
+Some random edit
